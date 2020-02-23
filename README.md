@@ -1,6 +1,8 @@
 # 1st place solution - Hack.Moscow
 
-Winning solution of LABOUR CLASS team for Hack.Moscow AdTech track
+Winning solution of LABOUR CLASS team for Hack.Moscow AdTech track. Track was
+hosted by [ADV Group](https://advgroup.ru) - one of the largest Digital Media company in Russia.
+
 
 ![](img/adv_main.png)
 
