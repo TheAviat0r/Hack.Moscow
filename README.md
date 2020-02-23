@@ -1,23 +1,23 @@
-#1st place solution - Hack.Moscow
+# 1st place solution - Hack.Moscow
 
 Winning solution of LABOUR CLASS team for Hack.Moscow AdTech track
 
 ![](img/adv_main.png)
 
-###Context:
+### Context:
 There is a strong demand in optimizing ad campaigns, specially for large
 agencies, however large amounts of data are hard to process manually
 
-###Initiatives:
+### Initiatives:
 * Research and figure out which parameters are the most significant for business results
 * Build a recommendation system for campaigns optimization
 
-###Results:
+### Results:
 * Increased average check price and transactions amount
 * Increased productivity for marketers
 * Service with recommendations for further actions and analytics
 
-###Technical details:
+### Technical details:
 1. Several EDA techniques were performed for data understanding and
 Feature Engineering for achieving higher model quality.
 2. Multi-level linear model was the best in terms of overall quality,
@@ -27,6 +27,6 @@ with small amount of data.
 More details about model on screen below:
 ![](img/adv_model.png)
 
-###Potential revenue improvement:
+### Potential revenue improvement:
 ![](img/adv_results.png)
 
